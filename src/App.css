@@ -1,0 +1,20 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.title{
+  text-align: center;
+  color: white;
+  margin:0 0 3px 3px ;
+}
+.main{
+  width: max-content;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 4px;
+  padding-right: 4px;
+  background-color: grey;
+}
+.input-item{
+  display: flex;
+}
